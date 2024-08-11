@@ -1,4 +1,5 @@
 # Aspiring Data Analyst | Seeking Internship Opportunities | Business Intelligence and Analytics Grad Student @CSUSB
+
 ####  SKILLS and CERTIFICATIONS:
 - Data Analysis & Visualization Tools: Power BI, MS-Excel 
 - Data Techniques: Exploratory Data Analysis, Data Visualization, Hypothesis Testing, A/B testing, Statistics
@@ -7,14 +8,14 @@
 - Programming Languages: Python (NumPy, Pandas, Matplotlib, Seaborn), Java
 - Certifications: Power BI for Beginner, TCS Data Visualization
 
-## Education
+## EDUCATION
 # California State University, San Bernardino | San Bernardino, California	                             - Expected December 2025            
 - Master of Science, Information Systems and Technology - Business Intelligence and Analytics	                        
 - Coursework: Statistics, Data Analysis, Data Visualization, Database management, Python Programming, Business Analytics and Decision Making
 # Vasireddy Venkatadri Institute of Technology │ Guntur, India					                          - June 2022	                           
 - Bachelor of Technology, Information Technology		
 
-## Academic Work Experience
+## ACADEMIC WORK EXPERIENCE
 **Massachusetts General Hospital (MGH) Dashboard | Power BI, KPI, Data Visualization – [View Contents](https://github.com/Johar2503/Massachusetts-General-Hospital-MGH-Dashboard-)**	 
 -	Built an interactive dashboard for MGH, analyzing patient data over more than 27,000 rows to provide stakeholders with clear insights and explore into hospital performance.
 -	Improved decision-making by 25% through actionable and innovative insights into patient admissions, readmissions, and procedures covered by insurance.
@@ -30,7 +31,7 @@
 -	Taxi drivers discover a 12% increase in revenue when they accept cards rather than cash by performing A/B tests on the fare amount and payment method.
 -	Identified that single-passenger rides accounted for 40.84% of card payments and 20.04% of cash payments. Observed a decrease in transaction percentages with increasing passenger counts, highlighting trends in customer preferences. -->
 
-## Projects
+## PROJECTS
 **Call Center Management | Power BI, KPI, Excel – [View Contents](https://github.com/Johar2503/Call-Center-Management)**			 
 •	Increasing productivity by 20% by analyzing more than 10,000 rows of data leads to dashboard development for call centers.
 •	Track answering speed, resolution rates, customer satisfaction through customer engagement by developing KPI dashboards.
@@ -44,7 +45,7 @@
 •	Created 2 Power BI reports by analyzing datasets extracted from web with 7,044 rows for customer risk analysis and problems.
 •	Reduced churn rate by 15% by identifying risk factors and churn patterns and build relevant insights and build solutions for customer retention strategies.
 
-## Acheivements
+## ACHEIVEMENTS
 Power BI Job Simulation
 
 
