@@ -8,10 +8,10 @@
 - Certifications: Power BI for Beginner, TCS Data Visualization
 
 ## Education
-# California State University, San Bernardino | San Bernardino, California	                             Expected December 2025            
+# California State University, San Bernardino | San Bernardino, California	                             - Expected December 2025            
 - Master of Science, Information Systems and Technology - Business Intelligence and Analytics	                        
 - Coursework: Statistics, Data Analysis, Data Visualization, Database management, Python Programming, Business Analytics and Decision Making
-# Vasireddy Venkatadri Institute of Technology │ Guntur, India					                                              June 2022	                           
+# Vasireddy Venkatadri Institute of Technology │ Guntur, India					                          - June 2022	                           
 - Bachelor of Technology, Information Technology		
 
 ## Academic Work Experience
@@ -31,15 +31,21 @@
 -	Identified that single-passenger rides accounted for 40.84% of card payments and 20.04% of cash payments. Observed a decrease in transaction percentages with increasing passenger counts, highlighting trends in customer preferences. -->
 
 ## Projects
-***Call Center Management | Power BI, KPI, Excel – [View Contents](https://github.com/Johar2503/Call-Center-Management)***			 
+**Call Center Management | Power BI, KPI, Excel – [View Contents](https://github.com/Johar2503/Call-Center-Management)**			 
 •	Increasing productivity by 20% by analyzing more than 10,000 rows of data leads to dashboard development for call centers.
 •	Track answering speed, resolution rates, customer satisfaction through customer engagement by developing KPI dashboards.
 •	Enhanced decision-making by 30% and project success rates by 15% by transforming complex data into insights by business strategy.
 
-***Data Professional Survey Breakdown | Power BI, KPI, Excel –  [View Contents](https://github.com/Johar2503/Professionals-Data-Survey)***  					 
+**Data Professional Survey Breakdown | Power BI, KPI, Excel –  [View Contents](https://github.com/Johar2503/Professionals-Data-Survey)** 				 
 •	Analyzed and visualized basic 10,000 survey research responses, focusing on regional distribution, job titles, and salary trends.
 •	Through data analysis, we observed that 57% of employees are happy with the work/life balance and 47% employees are happy with their salary.
 
-***Customer Retention | Power Bi | KPI | Power Bi Dashboard – [View Contents](https://github.com/Johar2503/Customer-Retention)***					 
+**Customer Retention | Power Bi | KPI | Power Bi Dashboard – [View Contents](https://github.com/Johar2503/Customer-Retention)**					 
 •	Created 2 Power BI reports by analyzing datasets extracted from web with 7,044 rows for customer risk analysis and problems.
 •	Reduced churn rate by 15% by identifying risk factors and churn patterns and build relevant insights and build solutions for customer retention strategies.
+
+## Acheivements
+- Power BI Job Simulation
+
+
+
