@@ -45,7 +45,7 @@
 •	Reduced churn rate by 15% by identifying risk factors and churn patterns and build relevant insights and build solutions for customer retention strategies.
 
 ## Acheivements
-- Power BI Job Simulation
+Power BI Job Simulation
 
 
 
