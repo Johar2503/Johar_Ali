@@ -1,6 +1,6 @@
 # Aspiring Data Analyst | Seeking Internship Opportunities | Business Intelligence and Analytics Grad Student @CSUSB
 
-####  SKILLS and CERTIFICATIONS:
+## SKILLS and CERTIFICATIONS:
 - Data Analysis & Visualization Tools: Power BI, MS-Excel 
 - Data Techniques: Exploratory Data Analysis, Data Visualization, Hypothesis Testing, A/B testing, Statistics
 - Project Management Tools: JIRA
@@ -9,10 +9,10 @@
 - Certifications: Power BI for Beginner, TCS Data Visualization
 
 ## EDUCATION
-# California State University, San Bernardino | San Bernardino, California	                             - Expected December 2025            
+### California State University, San Bernardino | San Bernardino, California	                             - Expected December 2025            
 - Master of Science, Information Systems and Technology - Business Intelligence and Analytics	                        
 - Coursework: Statistics, Data Analysis, Data Visualization, Database management, Python Programming, Business Analytics and Decision Making
-# Vasireddy Venkatadri Institute of Technology │ Guntur, India					                          - June 2022	                           
+### Vasireddy Venkatadri Institute of Technology │ Guntur, India					                          - June 2022	                           
 - Bachelor of Technology, Information Technology		
 
 ## ACADEMIC WORK EXPERIENCE
