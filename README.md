@@ -26,7 +26,7 @@
 -	Designed dashboards to track sales, orders, and quantities sold, enhancing operational transparency through analytical strategy.
 -	Improved client decision-making by 35% and project success rates by 20% through actionable insights.
 			 
- **Maximizing Taxi Drivers Revenue | Python | Pandas | Matplotlib | SciPy | Statsmodels – [Github]**
+ **Maximizing Taxi Drivers Revenue | Python | Pandas | Matplotlib | SciPy | Statsmodels – [View Contents](https://github.com/Johar2503/Maximize-Taxi-Driver-Revenue)**
 - Exploratory Data Analysis (EDA) revealed that 32.5% of transactions involved cash payments and 67.5% involved card payments, showing that the average fare amounts paid with cards and cash differed significantly by conducting t-test.
 - Detected 13% increase in taxi drivers revenue by performing linear regression on fare amount and trip duration when the payment is done through cards rather than cash.
 - Implemented Machine Learning Models to predict fare amount depending on passenger count, payment type, trip distance, trip duration, and achieved 98% R-squared. 
